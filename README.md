@@ -1,5 +1,5 @@
-# UNO game (P_MOD2)
-This project concludes 3 months of learning Java combining the knowledge and skills me and a fellow student gained during a software development module.
+# UNO game
+This project combines the knowledge and skills me and a fellow student gained during a software development module focussing on Java.
 
 ## Description
 UNO is a classic card game for 2-10 players, where the goal is to get rid of all your cards before the other players. This project provides a platform for players to play UNO with friends on different devices, by utilizing Java's networking capabilities.

@@ -21,17 +21,17 @@ The Java UNO project underwent a comprehensive requirements analysis prior to it
 
 The implementation phase of the project commenced immediately after the class diagram was devised. A local version of the game was implemented, followed by the creation of key classes such as "card," "deck," "table," and "game." The development of the first version of the computer player was also initiated.
 
-Once the local version of the game was thoroughly tested and debugged, work began on the network version. A protocol was established by a team of 20 individuals, which the developers were obligated to adhere to throughout the project. The implementation of the methods from the specified interface proved to be a challenge initially, prompting the team to conduct extensive research.
+Once the local version of the game was thoroughly tested and debugged, we began working on the network version. A network protocol was established by a team of 20 students, which the developers were obligated to adhere to throughout the project. The implementation of the methods from the specified interface proved to be a challenge initially, prompting the team to conduct extensive research.
 
-After gaining a comprehensive understanding of the topic, the developers began work on the network version of the game. Classes such as "server," "client," "clienthandler," and "serverhandler" were created, followed by the necessary modifications to the local version of the game. JUnit tests were also created to validate the functionality of the code.
+After gaining a comprehensive understanding of the topic, the developers began to work on the network version of the game. Classes such as "server," "client," "clienthandler," and "serverhandler" were created, followed by the necessary modifications to the local version of the game. JUnit tests were also created to validate the functionality of the code.
 
 Finally, a professional report documenting the work completed was compiled, showcasing the team's achievements and the successful implementation of the Java UNO project.
 
 ## Installation
 
-1. Install an app on your local device (type below code onto your terminal) :
+1. Install on your local device (type below code onto your terminal) :
     1. ``` $ git clone https://gitlab.utwente.nl/s3077489/gameuno.git ```
-2. Open a project
+2. Open project
    **NOTE: USE JAVA11 FOR THIS PROJECT**
 
 ## Setup (locally)
